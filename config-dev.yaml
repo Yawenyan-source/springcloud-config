@@ -1,4 +1,2 @@
-server:
-  port: 8885
 config:
   info: 7755
